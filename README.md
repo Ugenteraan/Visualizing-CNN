@@ -11,6 +11,8 @@ For the next step, I've used one of the test image to get the feature maps and t
 **Test Image**
 ![](readme_images/test_img.png)
 
+_Below, the weights of the filters are normalized and visualized as images and the row below every filter is the feature map produced by the filter during the convolution process on the shown test image._
+
 **Convolution Layer 1**
 ![](readme_images/layer1.png)
 
